@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.ibm.dtfj.feature_1.12.29003.201808011034.jar" id="com.ibm.dtfj.feature" version="1.12.29003.201808011034">
+       <category name="Tools/Component/JVM"/>
+   </feature>
+   <category-def name="Tools/Component/JVM" label="JVM-based Tools">
+      <description>
+         This folder contains Tools that operate on artifacts from JVM-based products
+      </description>
+   </category-def>
+   
+</site>
